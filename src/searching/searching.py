@@ -1,6 +1,7 @@
 import math
 
 # STRETCH: implement Linear Search
+# Pushed to master 😢
 
 
 def linear_search(arr, target):
